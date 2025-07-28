@@ -28,24 +28,26 @@
 рис.1
 ![Анализ проекта](https://github.com/user-attachments/assets/918b3772-6752-42ca-a95b-28c0b1b05b5c)
 
-![Анализ проекта (1)](https://github.com/user-attachments/assets/09ec265a-ebf1-461c-ad89-eea098830a77)
-
-
 
 рис.2
 <img width="960" height="540" alt="Анализ проекта" src="https://github.com/user-attachments/assets/683f4b23-a076-423f-b694-6afb0e5bd249" />
 
+
 рис.3
 <img width="960" height="540" alt="Анализ проекта (2)" src="https://github.com/user-attachments/assets/6fed35b6-af1d-4490-be6c-1af94ba05704" />
+
 
 рис.4
 <img width="960" height="540" alt="Анализ проекта (3)" src="https://github.com/user-attachments/assets/7cf37ad6-9aaa-476a-8c62-84a90f585fee" />
 
+
 рис.5
 <img width="960" height="540" alt="Анализ проекта (4)" src="https://github.com/user-attachments/assets/b20acd9b-2f87-4d63-ad4d-63782f5afeea" />
 
+
 рис.6
 <img width="960" height="540" alt="Анализ проекта (5)" src="https://github.com/user-attachments/assets/0306177c-e881-441e-ba4e-dad59977b249" />
+
 
 рис.7
 <img width="960" height="540" alt="Анализ проекта (6)" src="https://github.com/user-attachments/assets/977a6fdb-92a0-4dd0-aa48-2818301c2810" />
