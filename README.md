@@ -27,7 +27,6 @@
 
 рис.1
 ![Анализ проекта](https://github.com/user-attachments/assets/918b3772-6752-42ca-a95b-28c0b1b05b5c)
-<img width="960" height="540" alt="Анализ проекта (1)" src="https://github.com/user-attachments/assets/a9fc4e79-e3e5-4b1d-b7da-de993f3deacc" />
 
 рис.2
 <img width="960" height="540" alt="Анализ проекта" src="https://github.com/user-attachments/assets/683f4b23-a076-423f-b694-6afb0e5bd249" />
